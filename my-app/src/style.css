@@ -7,9 +7,10 @@
   box-shadow: none;
   border: none;
 }
-.footer-background{
+#footer-background{
   background-color: #292929;
   color: white;
   padding-top: 20px;
   padding-bottom: 100px;
+  padding-left: 20px
 }
